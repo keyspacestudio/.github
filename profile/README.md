@@ -3,7 +3,7 @@
 Fuel Retention with Collectible Loyalty Programs
 ---
 
-##Announcements
+### Announcements
 - Currently Working on building Keyspace v2.0! 🧱
 - Learn more about it in our [Discord](https://discord.gg/ykZJWqkthv)
 ---
