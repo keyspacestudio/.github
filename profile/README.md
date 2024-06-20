@@ -8,7 +8,7 @@ Fuel Retention with Collectible Loyalty Programs
 - Learn more about it in our [Discord](https://discord.gg/ykZJWqkthv)
 ---
 ### Resources
-[Website][https://keyspace.studio/]
+[Website](https://keyspace.studio/)
 <!--
 
 **Here are some ideas to get you started:**
