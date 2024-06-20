@@ -1,11 +1,11 @@
 # Keyspace Studio
----
+
 Fuel Retention with Collectible Loyalty Programs
 ---
 
-### Announcements
-Currently Working on building Keyspace v2.0! 🧱
-Learn more about it in our [Discord](https://discord.gg/ykZJWqkthv)
+##Announcements
+- Currently Working on building Keyspace v2.0! 🧱
+- Learn more about it in our [Discord](https://discord.gg/ykZJWqkthv)
 ---
 ### Resources
 [Website][https://keyspace.studio/]
